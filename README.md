@@ -48,3 +48,5 @@ The animation logic resides in the `animation.py` file. A flag variable determin
 ```bash
 manim -pqh animation.py RandomForest
 ```
+
+<img src="random_forest.gif">
